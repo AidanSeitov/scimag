@@ -1,0 +1,2 @@
+# scimag
+scientific journal
